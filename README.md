@@ -1,7 +1,7 @@
 
 <h1> paylastikcaWebsite </h1>
 
-<a href="paylastikcawebsite.netlify.app" class="btnDevam">Projenin Canlı Hali İçin Buraya Tıklayın</a>
+<a href="https://paylastikcawebsite.netlify.app/">Projenin Canlı Hali İçin Buraya Tıklayın</a>
 
 <p> Çok sayfalı Paylaştıkça Web Sitesi Tamamlandı </p>
 
@@ -16,3 +16,5 @@ HTML ve CSS Kullanıldı
 <img src="gorunus/3.png" >
 <img src="gorunus/4.png" >
 <img src="gorunus/5.png" >
+
+
